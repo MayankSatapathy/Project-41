@@ -1,1 +1,2 @@
-# Project-42
+# Fruit-Catcher-2
+The completed Fruit Catcher Game
